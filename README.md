@@ -9,7 +9,7 @@ Prof. Ng's course
 Dive into Machine Learning compiles a variety of resources, taking a hack-first approach so you can get "hooked." Prof. Ng's course is the centerpiece.
 https://github.com/hangtwenty/dive-into-machine-learning
 
-## Machine Learning Coursera implemented in Python
+### Machine Learning Coursera implemented in Python
 Machine Learning Coursera | Implementation in Python
 https://github.com/anwarcsebd/machine-learning-coursera
 Contains Python Implementation of certain programming assignments of Andrew Ng’s Machine Learning Course on Coursera, created by Stanford Universit
