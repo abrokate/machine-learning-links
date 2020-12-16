@@ -14,15 +14,15 @@ Machine Learning Coursera | Implementation in Python
 https://github.com/anwarcsebd/machine-learning-coursera
 Contains Python Implementation of certain programming assignments of Andrew Ng’s Machine Learning Course on Coursera, created by Stanford Universit
 
-## Universities's Courses
-MIT
+## Online University Courses
+MIT - EDX
 
-Columbia
+Columbia - EDX
 
-George Washington
+George Washington  - Coursera
 
 
-## Other Online's Course
+## Other Online Courses
 Udacity
 Machine Learning Engineer
 https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
