@@ -30,8 +30,8 @@ Learn advanced machine learning techniques and algorithms -- including how to pa
 [Program Syllabus](https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf)
 
 ### 1.2 Machine Learning Engineer for Microsoft Azure
-Strengthen your machine learning skills and build practical experience by training, validating, and evaluating models using Azure Machine Learning.
 https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333
+Strengthen your machine learning skills and build practical experience by training, validating, and evaluating models using Azure Machine Learning.
 
 ### 2. Udemy
 
