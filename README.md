@@ -23,13 +23,12 @@ George Washington  - Coursera
 
 
 ## Other Online Courses
-
+### Udacity 
 [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
 
-Program Syllabus
-https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf
+[Program Syllabus](https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf)
 
 
 
