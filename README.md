@@ -24,7 +24,7 @@ George Washington  - Coursera
 
 ## Other Online Courses
 
-[Machine Learning Engineer]: (https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+[Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
 
@@ -35,6 +35,8 @@ https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engine
 
 Udemy
 https://www.udemy.com/course/aprehttps://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009tnde-data-science-y-machine-learning-con-python/learn/lecture/8929022#announcements
+
+
 
 
 ## Others
