@@ -23,18 +23,19 @@ George Washington  - Coursera
 
 
 ## Other Online Courses
-### Udacity 
-[Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
-
+### 1. Udacity 
+### 1.1 Machine Learning Engineer (AWS SageMaker)
+https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
-
 [Program Syllabus](https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf)
 
+### 1.2 Machine Learning Engineer for Microsoft Azure
+Strengthen your machine learning skills and build practical experience by training, validating, and evaluating models using Azure Machine Learning.
+https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333
 
+### 2. Udemy
 
-Udemy
 https://www.udemy.com/course/aprehttps://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009tnde-data-science-y-machine-learning-con-python/learn/lecture/8929022#announcements
-
 
 
 
