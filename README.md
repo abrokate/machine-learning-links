@@ -54,4 +54,9 @@ Python Machine Learning - Third Edition
 https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750
 
 ## Comparatives
-
+Feature Engineering for Machine Learning
+https://www.udemy.com/course/feature-engineering-for-machine-learning/
+Machine Learning A-Z™: Hands-On Python & R In Data Science
+https://www.udemy.com/course/machinelearning/
+Python for Data Science and Machine Learning Bootcamp
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
