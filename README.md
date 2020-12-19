@@ -37,10 +37,14 @@ Strengthen your machine learning skills and build practical experience by traini
 https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333
 
 ### 2. Udemy
-
-https://www.udemy.com/course/aprehttps://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009tnde-data-science-y-machine-learning-con-python/learn/lecture/8929022#announcements
-
-
+Feature Engineering for Machine Learning
+https://www.udemy.com/course/feature-engineering-for-machine-learning/
+Machine Learning A-Z™: Hands-On Python & R In Data Science
+https://www.udemy.com/course/machinelearning/
+Python for Data Science and Machine Learning Bootcamp
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+Machine Learning y Data Science con Python
+https://www.udemy.com/course/aprende-data-science-y-machine-learning-con-python/
 
 ## Others
 
@@ -54,9 +58,9 @@ Python Machine Learning - Third Edition
 https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750
 
 ## Comparatives
-Feature Engineering for Machine Learning
-https://www.udemy.com/course/feature-engineering-for-machine-learning/
-Machine Learning A-Z™: Hands-On Python & R In Data Science
-https://www.udemy.com/course/machinelearning/
-Python for Data Science and Machine Learning Bootcamp
-https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+
+
+#Deep Learning Specialization
+Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
+https://www.deeplearning.ai/deep-learning-specialization/
+
