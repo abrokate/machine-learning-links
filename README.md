@@ -46,21 +46,27 @@ https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootca
 Machine Learning y Data Science con Python
 https://www.udemy.com/course/aprende-data-science-y-machine-learning-con-python/
 
+
+## Comparatives
+OnlineCourseing - Helping you Learn
+Udacity Udemy Edx Coursera
+https://onlinecourseing.com/
+https://onlinecourseing.com/udacity-machine-learning-nanodegree-review/
+
+Coursera vs Udacity for Machine Learning by @logan-spears
+https://hackernoon.com/coursera-vs-udacity-for-machine-learning-f9c0d464a0eb
+
+# Deep Learning Specialization
+Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
+https://www.deeplearning.ai/deep-learning-specialization/
+
 ## Others
 
 ### Data Science in Visual Studio Code
 This tutorial demonstrates using Visual Studio Code and the Microsoft Python extension with common data science libraries to explore a basic data science scenario. Specifically, using passenger data from the Titanic, you will learn how to set up a data science environment, import and clean data, create a machine learning model for predicting survival on the Titanic, and evaluate the accuracy of the generated model.
-
 https://code.visualstudio.com/docs/python/data-science-tutorial
 
 ## Books
 Python Machine Learning - Third Edition
 https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750
-
-## Comparatives
-
-
-#Deep Learning Specialization
-Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
-https://www.deeplearning.ai/deep-learning-specialization/
 
