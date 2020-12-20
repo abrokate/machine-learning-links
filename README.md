@@ -24,9 +24,11 @@ George Washington  - Coursera
 # Blogs
 Opinions
 https://www.quora.com/How-do-I-learn-machine-learning-1
+https://www.quora.com/?pa_story=MjM4MTIyNzI0ODIwODA3MTIzfDIxMTEwNjIzNTcyMjYyMHww
 
 A Tour of Machine Learning Algorithms
 https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+https://machinelearningmastery.com/blog/
 
 Book
 https://machinelearningmastery.com/master-machine-learning-algorithms/
@@ -61,6 +63,13 @@ https://www.udemy.com/course/aprende-data-science-y-machine-learning-con-python/
 ## 3. Springboard
 Machine Learning Engineering Career Track Program. Deploy ML Algorithms. Build Your Own Portfolio.
 https://www.springboard.com/courses/ai-machine-learning-career-track/
+
+## 4. Dataquest
+Learn Data Science - 100% Online
+Get the skills you need to land your first data science job. Learn R, Python and SQL
+https://www.dataquest.io/
+
+https://www.dataquest.io/path/data-engineer/
 
 ## Comparatives
 OnlineCourseing - Helping you Learn
