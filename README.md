@@ -21,6 +21,15 @@ Columbia - EDX
 
 George Washington  - Coursera
 
+# Blogs
+Opinions
+https://www.quora.com/How-do-I-learn-machine-learning-1
+
+A Tour of Machine Learning Algorithms
+https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+
+Book
+https://machinelearningmastery.com/master-machine-learning-algorithms/
 
 ## Other Online Courses
 ### 1. Udacity 
@@ -49,6 +58,9 @@ https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootca
 Machine Learning y Data Science con Python
 https://www.udemy.com/course/aprende-data-science-y-machine-learning-con-python/
 
+## 3. Springboard
+Machine Learning Engineering Career Track Program. Deploy ML Algorithms. Build Your Own Portfolio.
+https://www.springboard.com/courses/ai-machine-learning-career-track/
 
 ## Comparatives
 OnlineCourseing - Helping you Learn
@@ -59,9 +71,15 @@ https://onlinecourseing.com/udacity-machine-learning-nanodegree-review/
 Coursera vs Udacity for Machine Learning by @logan-spears
 https://hackernoon.com/coursera-vs-udacity-for-machine-learning-f9c0d464a0eb
 
+# Data Engineering 
+## Udacity
+
+## Insight
+An intensive 7-week professional training fellowship designed to be your bridge to a career in data engineering.
+https://insightfellows.com/data-engineering
+
 # Deep Learning Specialization
 Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
-
 https://www.deeplearning.ai/deep-learning-specialization/
 
 ## Others
